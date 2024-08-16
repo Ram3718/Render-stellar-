@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Render Stellar - Blender Renders by Ram</title>
+    <style>
+        /* Your CSS styles here */
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Render Stellar</h1>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Ram, the creative force behind Render Stellar. My passion lies in creating stunning 3D renders using Blender, and every day, I strive to push the boundaries of my creativity.</p>
+</section>
+
+<section class="blog">
+    <h2>Best Renders</h2>
+    <div class="post">
+        <h3>Samsung S21</h3>
+        <p>A highly detailed render of the Samsung S21. View it on Instagram <a href="https://www.instagram.com/p/C-NIwPvJKZ8/?igshid=MXZqbHFoMWtmeHk4cg==" target="_blank">here</a>.</p>
+    </div>
+    <div class="post">
+        <h3>Asus Zenbook Duo</h3>
+        <p>This render of the Asus Zenbook Duo highlights the innovative design. Check it out on Instagram <a href="https://www.instagram.com/p/C-NElWgJDzy/?igshid=Ym16YTVyNmc4dXV6" target="_blank">here</a>.</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact Me</h2>
+    <p>Reach out via <a href="https://www.instagram.com/render_stellar/" target="_blank">Instagram</a>. Follow my daily renders and let's connect over 3D art!</p>
+</section>
+
+</body>
+</html>
